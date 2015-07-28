@@ -20,25 +20,6 @@
         </view:properties>
     </cm:person>
 
-    <cm:person view:childName="cm:carol">
-        <view:acl>
-            <view:ace view:access="ALLOWED">
-                <view:authority>carol</view:authority>
-                <view:permission>All</view:permission>
-            </view:ace>
-        </view:acl>
-        <view:properties>
-            <cm:firstName>Carol</cm:firstName>
-            <cm:lastName>Doe</cm:lastName>
-            <cm:email>carol@openesdh.org</cm:email>
-            <cm:userName>carol</cm:userName>
-            <cm:homeFolder>/app:company_home/app:user_homes</cm:homeFolder>
-            <cm:organizationId></cm:organizationId>
-            <cm:sizeQuota>-1</cm:sizeQuota>
-            <cm:sizeCurrent>0</cm:sizeCurrent>
-        </view:properties>
-    </cm:person>
-
     <cm:person view:childName="cm:brigitte">
         <view:acl>
             <view:ace view:access="ALLOWED">

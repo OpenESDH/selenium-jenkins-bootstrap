@@ -19,21 +19,6 @@
         </view:properties>
     </usr:user>
 
-    <usr:user view:childName="usr:carol">
-        <view:aspects>
-            <sys:referenceable></sys:referenceable>
-        </view:aspects>
-        <view:properties>
-            <usr:accountExpires>false</usr:accountExpires>
-            <usr:credentialsExpire>false</usr:credentialsExpire>
-            <usr:password>0cb6948805f797bf2a82807973b89537</usr:password>
-            <usr:accountLocked>false</usr:accountLocked>
-            <usr:username>carol</usr:username>
-            <usr:salt>bab82e75-e68c-4676-ace7-d5070e8aad1c</usr:salt>
-            <usr:enabled>true</usr:enabled>
-        </view:properties>
-    </usr:user>
-
     <usr:user view:childName="usr:helena">
         <view:aspects>
             <sys:referenceable></sys:referenceable>
